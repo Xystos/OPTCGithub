@@ -2111,6 +2111,6 @@ window.captains = {
 		atk: function(p) { return p.unit.class.has("Shooter") ? 1.75 : 1; }
 	}
 	921: {
-		atk: function(p) { return ? 5.25 : 1; }
+		atk: function(p) { return p.unit.type == "PSY" ? 4 : 1; }
 	}
 };
