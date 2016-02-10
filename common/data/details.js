@@ -4258,8 +4258,8 @@ window.details = {
 		special: "Changes the orbs in the middle row into [RCV] orbs, changes the orbs in the bottom row into [TND] orbs"
 	},
 	921: {
-		captain: "Boosts ATK of PSY characters by 4x"
-		specialName: "Shockewave of Justice"
+		captain: "Boosts ATK of PSY characters by 4x",
+		specialName: "Shockewave of Justice",
 		special: "Deals 1,000,000 fixed damage to one enemy, delays all enemies for 4 turns"
 	}
 };
