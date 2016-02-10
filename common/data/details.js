@@ -4254,7 +4254,6 @@ window.details = {
 		special: "Reduces damage received from STR enemies by 50% for 2 turns"
 	},
 	920: {
-		captain: "Boosts ATK of PSY characters by 4x",
 		specialName: "Snake Bow of the Warrior Defending Her Country",
 		special: "Changes the orbs in the middle row into [RCV] orbs, changes the orbs in the bottom row into [TND] orbs"
 	},
